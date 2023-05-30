@@ -1,14 +1,15 @@
-<mxfile modified="2023-05-30T20:50:38.612Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FPb5SeTwnCTWHEWB6VWW" version="21.3.5" type="github">
+<mxfile modified="2023-05-30T21:02:13.205Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="g-9tXic_zi-a0OIiz2C6" version="21.3.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1364" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WOdKIQveHSRAC7E8Slvm-51" value="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-18" target="WOdKIQveHSRAC7E8Slvm-38">
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-51" value="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-18" target="WOdKIQveHSRAC7E8Slvm-84">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="180" />
-              <mxPoint x="640" y="180" />
+              <mxPoint x="820" y="162" />
+              <mxPoint x="820" y="162" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,19 +75,17 @@
           <mxGeometry x="450" y="312" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-37" value="Portal clienteA" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="507" y="520" width="77.5" height="62" as="geometry" />
+          <mxGeometry x="507" y="788" width="77.5" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="WOdKIQveHSRAC7E8Slvm-53" value="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-38">
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-53" value="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-84">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="150" as="sourcePoint" />
             <mxPoint x="520" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="150" />
-              <mxPoint x="590" y="150" />
+              <mxPoint x="810" y="150" />
+              <mxPoint x="810" y="150" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WOdKIQveHSRAC7E8Slvm-38" value="Active Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.active_directory;" vertex="1" parent="1">
-          <mxGeometry x="810" y="120" width="90" height="84" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-57" value="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-55" target="WOdKIQveHSRAC7E8Slvm-28">
           <mxGeometry relative="1" as="geometry" />
@@ -104,13 +103,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-62" value="API Proxy" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="1">
-          <mxGeometry x="640" y="402" width="68" height="38" as="geometry" />
+          <mxGeometry x="640" y="670" width="68" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-63" value="Portal Cliente B" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="635.25" y="520" width="77.5" height="62" as="geometry" />
+          <mxGeometry x="635.25" y="788" width="77.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-64" value="Portal cliente N.." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;imageBackground=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="520" width="77.5" height="62" as="geometry" />
+          <mxGeometry x="760" y="788" width="77.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="WOdKIQveHSRAC7E8Slvm-18" target="WOdKIQveHSRAC7E8Slvm-73">
           <mxGeometry relative="1" as="geometry">
@@ -123,6 +122,27 @@
         </mxCell>
         <mxCell id="WOdKIQveHSRAC7E8Slvm-73" value="MFA Token" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mfa_token;" vertex="1" parent="1">
           <mxGeometry x="330" y="16.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-84" value="Server contents" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="97" width="320" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-81" value="Contigencia o respaldo&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="WOdKIQveHSRAC7E8Slvm-84">
+          <mxGeometry x="30" y="193" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-78" value="principal" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;" vertex="1" parent="WOdKIQveHSRAC7E8Slvm-84">
+          <mxGeometry x="30" y="28.75" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-79" value="Active Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.active_directory;" vertex="1" parent="WOdKIQveHSRAC7E8Slvm-84">
+          <mxGeometry x="200" y="25.75" width="90" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WOdKIQveHSRAC7E8Slvm-84" source="WOdKIQveHSRAC7E8Slvm-78" target="WOdKIQveHSRAC7E8Slvm-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-82" value="Active Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.active_directory;" vertex="1" parent="WOdKIQveHSRAC7E8Slvm-84">
+          <mxGeometry x="210" y="190" width="90" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WOdKIQveHSRAC7E8Slvm-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WOdKIQveHSRAC7E8Slvm-84" source="WOdKIQveHSRAC7E8Slvm-81" target="WOdKIQveHSRAC7E8Slvm-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
