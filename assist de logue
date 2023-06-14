@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T14:06:28.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TmVUGcJnQj6IuJ98Kgo4" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T21:51:38.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wMLaLER7BwYOHS2hUzPe" version="21.3.8" type="github">
   <diagram name="Página-1" id="stn3BXzRRLn0VoBiJ4eY">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-edCA52UBiQ7we8BFY2Z-3" value="CPW" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Portal.svg;" parent="1" vertex="1">
+        <mxCell id="-edCA52UBiQ7we8BFY2Z-3" value="CPW&amp;nbsp;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Management_Portal.svg;" parent="1" vertex="1">
           <mxGeometry x="500" y="80" width="60" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-edCA52UBiQ7we8BFY2Z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.541;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-edCA52UBiQ7we8BFY2Z-5" target="-edCA52UBiQ7we8BFY2Z-6" edge="1">
@@ -65,6 +65,13 @@
         <mxCell id="-edCA52UBiQ7we8BFY2Z-13" value="INTEGRATOR" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Integration_Accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="190" y="446" width="44" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="_q3SJ8KEcWZALt623VnE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-edCA52UBiQ7we8BFY2Z-16" target="-edCA52UBiQ7we8BFY2Z-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-edCA52UBiQ7we8BFY2Z-16" value="WS&amp;nbsp;&lt;br&gt;Autentication&lt;br&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" parent="1" vertex="1">
           <mxGeometry x="297" y="490" width="70" height="50" as="geometry" />
         </mxCell>
@@ -94,6 +101,10 @@
         <mxCell id="-edCA52UBiQ7we8BFY2Z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-edCA52UBiQ7we8BFY2Z-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="444" y="400" />
+              <mxPoint x="444" y="401" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-edCA52UBiQ7we8BFY2Z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-edCA52UBiQ7we8BFY2Z-30" edge="1">
