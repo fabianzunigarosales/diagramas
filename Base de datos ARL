@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T13:24:19.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="lanJiZua8lY0DNaUJvHP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T13:34:09.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="J3MrWJwEu2FkgNcymat9" version="21.4.0" type="github">
   <diagram name="Página-1" id="sy6hB6OvIOeDzruk4eEW">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_QFyWpJPwTwKyia_aH71-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QFyWpJPwTwKyia_aH71-1" target="_QFyWpJPwTwKyia_aH71-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QFyWpJPwTwKyia_aH71-1" target="_QFyWpJPwTwKyia_aH71-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QFyWpJPwTwKyia_aH71-1" target="_QFyWpJPwTwKyia_aH71-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-1" value="Leads prospectos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QFyWpJPwTwKyia_aH71-2" target="_QFyWpJPwTwKyia_aH71-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-3" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-6" value="se captura la información&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_QFyWpJPwTwKyia_aH71-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="114" y="340" width="52" height="63.05" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
